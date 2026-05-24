@@ -40,4 +40,4 @@ The project demonstrates real-world IT workflows including user onboarding, pass
 - Desktop GUI development for IT operations
 
 ## Preview
-<video controls src="IT Automation Admin Console.mp4" title="Title"></video>
+<video controls src="[IT Automation Admin Console.mp4](https://youtu.be/MJ-y42Vg-Ug)" title="Title"></video>
