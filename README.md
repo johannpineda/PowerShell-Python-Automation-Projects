@@ -39,5 +39,5 @@ The project demonstrates real-world IT workflows including user onboarding, pass
 - Incident management system design
 - Desktop GUI development for IT operations
 
-## Preview
-<video controls src="[IT Automation Admin Console.mp4](https://youtu.be/MJ-y42Vg-Ug)" title="Title"></video>
+## 🎥 Project Demo
+[![Watch the demo](https://img.youtube.com/vi/MJ-y42Vg-Ug/maxresdefault.jpg)](https://www.youtube.com/watch?v=MJ-y42Vg-Ug)
